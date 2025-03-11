@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lunaticsoul666&label=Profile%20views&color=0e75b6&style=flat" alt="lunaticsoul666" /> </p>
-
 - 🔭 I’m currently working on **Movie Recommender System**
 
 - 🌱 I’m currently learning **Framewroks**
