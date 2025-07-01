@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Movie Recommender System**
-
 - 🌱 I’m currently learning **Framewroks**
 
 - 📫 How to reach me **abhishekniroula55@gmail.com**
